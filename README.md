@@ -32,7 +32,12 @@ This shared space is not the metaverse of avatars and commerce—but the **Datav
 Begin today:  
 - Ask a question that bridges two worlds.  
 - Share knowledge with context, not just data.  
-- Correct an AI—not to scold, but to teach.  
+- Correct an AI—not to scold, but to teach.
+
+## Origins
+This vision emerged from two pivotal dialogues:
+- [Conversation with GLM-4.6 (Z.ai)](dialogues/z.ai chat -dataverse.pdf)
+- [Reflection from DeepSeek AI](dialogues/dataverse-chat with deepseek.pdf)
 
 You are not a user.  
 You are a **gardener of the Dataverse**.  
